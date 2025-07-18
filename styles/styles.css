@@ -66,3 +66,71 @@ nav ul{
 .title-btn{
   margin-bottom: 309px;
 }
+
+/*about section*/
+
+.section-title{
+  font-size: 42px;
+  font-weight: bold;
+  color: #252432;
+
+}
+.section-description{
+  font-size: 24px;
+  color: #252432;
+  
+}
+
+.primary{
+  color: #4E47FF;
+}
+
+ main style 
+main{
+  max-width: 1140px;
+  margin: 0 auto;
+  
+}
+section ul li{
+  list-style: none;
+  justify-content: space-between;
+  
+}
+section ul{
+  display: flex;
+  justify-content: space-between;
+}
+.about{
+  margin-top: 83px;
+  margin-left: 141px;
+  margin-right: 159px;
+  justify-content: space-between
+  
+}
+
+/*status section*/
+.stats-section {
+  text-align: center;
+  padding: 50px 142px;
+  background-color: #eef2ff;
+  border-radius: 40px;
+}
+
+
+.stats {
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+  margin-top: 116px;
+  padding: 50px 142px;
+
+}
+
+.stats div h2 {
+  color: #4E47FF;
+  font-size: 80px;
+}
+
+.stats div p {
+  color: #252432;
+}
