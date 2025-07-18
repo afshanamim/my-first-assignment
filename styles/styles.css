@@ -209,3 +209,19 @@ section ul{
   color: #777;
   margin: 0;
 }
+/* Focus Banner */
+.focus-banner {
+  text-align: center;
+  background-color: #ffffff;
+  margin-top: 83px;
+  margin-left: 941px;
+  margin-right: 959px;
+  padding: 60px 50px;
+  border-radius: 20px;
+}
+
+.focus-banner img {
+  
+  margin-top: 50px;
+  border-radius: 10px;
+}
