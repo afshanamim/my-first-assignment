@@ -134,3 +134,78 @@ section ul{
 .stats div p {
   color: #252432;
 }
+
+/* review testimonial Section */
+.testimonial-section {
+  padding: 142px 50px;
+  background-color: #fff;
+}
+
+.testimonial-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.testimonial-title {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.testimonial-subtitle {
+  font-size: 16px;
+  color: #555;
+  margin-bottom: 40px;
+}
+
+.testimonial-cards {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.testimonial-card {
+  background-color: #f5f5ff;
+  padding: 30px;
+  border-radius: 12px;
+  flex: 1;
+  min-width: 300px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+.testimonial-stars {
+  width: 20px;
+  margin: 0 2px;
+}
+
+.testimonial-text {
+  font-size: 16px;
+  margin: 20px 0;
+  color: #333;
+}
+
+.testimonial-user {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.testimonial-author {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.testimonial-date {
+  font-size: 14px;
+  color: #777;
+  margin: 0;
+}
